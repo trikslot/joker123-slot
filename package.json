@@ -1,0 +1,18 @@
+{
+  "name": "joker123-slot",
+  "main": "./lib/joker123-slot",
+  "version": "1.0.0",
+  "description": "Daftar Nama Lengkap Kode Cheat Joker123 Slot Via Ovo",
+  "keywords": ["slot spade gaming","slot habanero","slot pg soft","situs slot online terpercaya","pragmatic play","slot pg soft","slot spade gaming"],
+
+  "activationCommands": {
+    "atom-workspace": "joker123-slot:toggle"
+  },
+  "repository": "https://github.com/trikslot/joker123-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

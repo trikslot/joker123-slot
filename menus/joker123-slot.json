@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle joker123-slot",
+        "command": "joker123-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "joker123-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "joker123-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
